@@ -1,7 +1,7 @@
-import range
-import random
-a = random.randint (0,15)
-y = 4
-x= 13
-print (f"a={a} , zakres: ({y},{x})")
-print (range.range(a,x,y))
+import power
+
+
+y = 3
+x= 3
+#print (f"a={a} , zakres: ({y},{x})")
+print (power.power(y,x))
