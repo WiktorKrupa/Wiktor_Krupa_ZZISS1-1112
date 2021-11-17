@@ -1,0 +1,6 @@
+file = open('ja.txt','w')
+file.write("Wiktor\n")
+file.write("Krupa\n")
+file.write("uek\n")
+file.write("IT\n")
+file.close()
