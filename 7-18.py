@@ -1,0 +1,6 @@
+f  = open('rickroll.txt','r')
+fd = open('copy1.txt','w')
+cont= f.read()
+fd.write(cont)
+f.close()
+fd.close()
